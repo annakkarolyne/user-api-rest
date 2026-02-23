@@ -86,8 +86,4 @@ POST /users
 }
 ```
 
----
 
-## Aprendizados
-
-Esse projeto me ensinou como funciona uma API REST na prática, como conectar o Spring Boot com um banco de dados real e como organizar o código usando o padrão de camadas (controller, service, repository).
