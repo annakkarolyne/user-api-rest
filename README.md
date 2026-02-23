@@ -2,7 +2,7 @@
 
 API REST para gerenciamento de usuários feita com Java e Spring Boot.
 
-Esse foi um dos meus primeiros projetos back-end, onde aprendi a criar endpoints, conectar com banco de dados real e organizar o código em camadas. Simples, mas funcional!
+
 
 ---
 
